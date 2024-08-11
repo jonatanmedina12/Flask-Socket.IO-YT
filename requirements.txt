@@ -1,0 +1,5 @@
+pip~=24.1.2
+attrs~=23.2.0
+Flask ~= 3.0.3
+pytube ~= 15.0.0
+flask-socketio ~= 5.3.6
